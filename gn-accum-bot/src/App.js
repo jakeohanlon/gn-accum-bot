@@ -7,7 +7,17 @@ function getResponse() {
     "haha, free tn?",
     "lol, what you wearing?",
     "ok cool, u free rn baby?",
-    "oh ahah, u wanna meet later?"
+    "oh ahah, u wanna meet later?",
+    "im going to shower, wanna join?",
+    "ok... send pics?",
+    "late night, all i can think about is you",
+    "you in bed? can i join?",
+    "i’m so hard right now",
+    "so horny, help me fix?",
+    "u wanna see something haha?",
+    "if you come over I will make it worth your time",
+    "there are so many things I want to do to you",
+
   ];
 
   const randomIndex = Math.floor(Math.random() * strings.length);
